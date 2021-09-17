@@ -1,0 +1,12 @@
+D:\TECHEXTENSOR\solutions\git int\git int\bin\Debug\git_int.rxtmg
+D:\TECHEXTENSOR\solutions\git int\git int\bin\Debug\git_int.rxtst
+D:\TECHEXTENSOR\solutions\git int\git int\bin\Debug\git int.exe.config
+D:\TECHEXTENSOR\solutions\git int\git int\bin\Debug\git int.xml
+D:\TECHEXTENSOR\solutions\git int\git int\bin\Debug\git int.exe
+D:\TECHEXTENSOR\solutions\git int\git int\bin\Debug\git int.pdb
+D:\TECHEXTENSOR\solutions\git int\git int\bin\Debug\Ranorex.Core.Resolver.dll
+D:\TECHEXTENSOR\solutions\git int\git int\obj\x86\Debug\git int.csproj.AssemblyReference.cache
+D:\TECHEXTENSOR\solutions\git int\git int\obj\x86\Debug\git int.csproj.CoreCompileInputs.cache
+D:\TECHEXTENSOR\solutions\git int\git int\obj\x86\Debug\git int.csproj.CopyComplete
+D:\TECHEXTENSOR\solutions\git int\git int\obj\x86\Debug\git int.exe
+D:\TECHEXTENSOR\solutions\git int\git int\obj\x86\Debug\git int.pdb
