@@ -56,6 +56,12 @@
 			id="af2bc6d0-f717-4e04-9de9-3ca217b37e90"
 			name="teardown">
 			</teardown>
+			<testmodule
+			id="cd60904d-70d9-498a-a2de-ddae23cd1e5e"
+			name="Recording2"
+			ref="4340c039-d8c6-4e03-a0e2-bae4e92e1820"
+			type="Recording">
+			</testmodule>
 		</flatlistofchildren>
 		<childhierarchy>
 			<testsuite
@@ -78,6 +84,10 @@
 						<testmodule
 						id="128f07c7-3bce-469c-85d8-d366820fa792"
 						name="Recording1">
+						</testmodule>
+						<testmodule
+						id="cd60904d-70d9-498a-a2de-ddae23cd1e5e"
+						name="Recording2">
 						</testmodule>
 						<teardown
 						id="af2bc6d0-f717-4e04-9de9-3ca217b37e90"

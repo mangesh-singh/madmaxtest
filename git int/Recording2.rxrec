@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="4340c039-d8c6-4e03-a0e2-bae4e92e1820"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording2"
+	namespace="git_int">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="Center"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="727987a9-81e6-49e9-aac4-4c9e3e540b8c"
+		sx="0"
+		sy="0"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="89cdd837-4fb8-441b-a5d2-8306c366c001"
+			sourcename="RepositoryEditor">
+				<path>
+					/dom[@domain='www.google.com']
+				</path>
+			</info>
+		</mouseitem>
+	</recorditems>
+	<repository
+	id="32882bb1-7ec0-41fd-855c-28ae99b6f6b4"
+	name="git_intRepository"
+	relativepath="git_intRepository.rxrep">
+		<codegen
+		classname="git_intRepository"
+		namespace="git_int">
+		</codegen>
+		<rootfolder
+		id="066256d5-34b3-4c92-880d-990a39b0fea7"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording2.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
